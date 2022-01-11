@@ -78,7 +78,11 @@ $db['default'] = array(
 	'hostname' => 'localhost',
 	'username' => 'root',
 	'password' => '',
+<<<<<<< HEAD
+	'database' => 'sekolah',
+=======
 	'database' => 'kontak',
+>>>>>>> 185ad938f6eb89b669c4d53af332ced2759c5927
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
